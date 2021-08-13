@@ -3,14 +3,13 @@ class Translation(object):
       
       START_TEXT = """
 
-😃 Hai {},
-
-I am a simple auto caption bot
-I can automatically add pre-setted caption to the files in channels
-
-I am currently working for a channel if you want to use me, Use my source code and Deploy me
-
-⚜️ Maintained By 👉 @{}
+Hi {}! 
+This is the most *complete Bot* to Make Buttons On your post! 
+ 
+👉🏻 *Add me in Your Channel* and promote me as Admin And Set The Caption!
+ 
+❓ *WHAT ARE THE COMMANDS?* ❓
+Press /help to see all the commands and how they work!
 """    
 
       HELP_TEXT = """
