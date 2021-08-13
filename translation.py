@@ -2,13 +2,12 @@ class Translation(object):
 
       
       START_TEXT = """
-
-Hi {}! 
-This is the most *complete Bot* to Make Buttons On your post! 
+𝙃𝙞 {}! 
+This is the most *complete Bot* to Make 𝘽𝙪𝙩𝙩𝙤𝙣𝙨 𝙊𝙣 𝙮𝙤𝙪𝙧 𝙥𝙤𝙨𝙩!
  
-👉🏻 *Add me in Your Channel* and promote me as Admin And Set The Caption!
+📚 𝘼𝙙𝙙 𝙢𝙚 𝙞𝙣 𝙔𝙤𝙪𝙧 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 and promote me as Admin And Set The Caption!
  
-❓ *WHAT ARE THE COMMANDS?* ❓
+❓ 𝙒𝙃𝘼𝙏 𝘼𝙍𝙀 𝙏𝙃𝙀 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎❓
 Press /help to see all the commands and how they work!
 """    
 
