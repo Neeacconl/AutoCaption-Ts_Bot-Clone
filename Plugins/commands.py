@@ -19,7 +19,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQ
 start_button=InlineKeyboardMarkup(
         [
               [
-                  InlineKeyboardButton("📄 BOT STATUS", callback_data = "status_data")
+                  InlineKeyboardButton("➕ Add channel", url = "https://t.me)
               ], 
               [
                   InlineKeyboardButton("📫 UPDATES", url = "https://t.me/Ts_bots"), 
